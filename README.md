@@ -11,4 +11,4 @@ This repository contains Java programs and excercises I have completed to help i
 ### Example Programs
  - FlameWar: Demonstrates iterative and recursive approaches for the same methods
  - Src: Demonstrates a user-interactive program, displaying courses students need to still complete to complete their degree
- - ReadingList: 
+ - ReadingList: Demonstrates the use of nodes to manipulate reading list data
